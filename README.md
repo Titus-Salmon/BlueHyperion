@@ -8,6 +8,6 @@ This is a web-page created by Titus Salmon for Blue Hyperion Press. The site con
 [4]A Preview page, which consists of a JQuery "flip-through" of the 1st two chapters, Bibliography, and Index of book<br>
 [5]A Purchase Book page, securely powered by Stripe.<br>
 <br>
-
-
+Contact Titus Salmon for working link to this site.
+<br>
 Used in this project: HTML, JavaScript, CSS, PHP, JQuery, JSON
