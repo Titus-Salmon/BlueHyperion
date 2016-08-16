@@ -1,6 +1,6 @@
 # CA2-cleanup-git
-Created August 2016
-This is a web-page created by Titus Salmon for Blue Hyperion Press. The site consists of:
+Created August 2016<br>
+This is a web-page created by Titus Salmon for Blue Hyperion Press. The site consists of:<br>
 
 [1]A Home page, which gives descriptions of a forthcoming book with hyperlinks
 [2]An About the Author page
