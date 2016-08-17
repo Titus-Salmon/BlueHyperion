@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# CL_backend
-=======
+
 # CA2-cleanup-git
 Created August 2016<br>
 This is a web-page created by Titus Salmon for Blue Hyperion Press. The site consists of:<br>
@@ -14,4 +12,4 @@ This is a web-page created by Titus Salmon for Blue Hyperion Press. The site con
 Contact Titus Salmon for working link to this site.
 <br><br>
 Used in this project: HTML, JavaScript, CSS, PHP, JQuery, JSON
->>>>>>> bfd641324c8b48d7c561fed36f0f430bf6862fcd
+
